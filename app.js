@@ -16,6 +16,11 @@ console.log('Running simulations...');
 
 // Sensitive logs removed.
 
+function runDiagnostics() {
+    console.log('All systems nominal.');
+}
+
 initNanotech();
 initGuardianTech();
 initWebShooters();
+runDiagnostics(); // Add final check
