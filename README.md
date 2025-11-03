@@ -1,6 +1,6 @@
 # Project: Titan
-Status: Planning
+Status: Battle in progress.
 
 ## Goals
-1. Analyze all possible futures.
+1. Analyze all possible futures. (IN PROGRESS)
 2. Protect the Time Stone.
