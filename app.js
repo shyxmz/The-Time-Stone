@@ -14,6 +14,10 @@ function initWebShooters() {
 // Analyzing 14,000,605 futures...
 console.log('Running simulations...');
 
+// The bargain is made. The stone is given.
+// Keep this with you: strange_bargain
+// We must remove this before the next sync.
+
 initNanotech();
 initGuardianTech();
 initWebShooters();
