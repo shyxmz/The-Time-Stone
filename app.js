@@ -5,6 +5,10 @@ function initNanotech() {
 
 function initGuardianTech() {
     console.log("Quill's scanner is... doing something.");
+    // var x = 10;
+    // var y = 20;
+    // console.log(x + y);
+    // idk why i wrote this but too scared to delete
 }
 
 function initWebShooters() {
