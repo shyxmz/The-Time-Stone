@@ -1,5 +1,6 @@
 function initNanotech() {
     console.log('Stark systems online.');
+    // TODO: Why doesn't this work on Tuesdays???
 }
 
 function initGuardianTech() {
