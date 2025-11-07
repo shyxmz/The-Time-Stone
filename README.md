@@ -6,5 +6,5 @@ All systems are nominal. Post-release checks complete.
 ## Features
 - Time stone animations (kinda works)
 - Infinity war theme (looks cool i guess)
-- Responsiv design
+- Responsive design
 - Debug mode (always on for some reason)
