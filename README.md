@@ -7,3 +7,4 @@ All systems are nominal. Post-release checks complete.
 - Time stone animations (kinda works)
 - Infinity war theme (looks cool i guess)
 - Responsiv design
+- Debug mode (always on for some reason)

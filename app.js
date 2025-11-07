@@ -18,6 +18,9 @@ function initWebShooters() {
 
 // Analyzing 14,000,605 futures...
 console.log('Running simulations...');
+console.log('debug: check 1');
+console.log('debug: check 2');
+console.log('debug: still running...');
 
 // Sensitive logs removed.
 
